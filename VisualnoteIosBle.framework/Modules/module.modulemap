@@ -1,0 +1,11 @@
+framework module VisualnoteIosBle {
+  umbrella header "VisualnoteIosBle-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module VisualnoteIosBle.Swift {
+    header "VisualnoteIosBle-Swift.h"
+    requires objc
+}
