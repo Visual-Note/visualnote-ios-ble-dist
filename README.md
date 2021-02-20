@@ -11,7 +11,7 @@ VisualnoteIosBle is available through [CocoaPods](https://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'VisualnoteIosBle', '0.1.4', :source => "https://github.com/Visual-Note/visualnote-ios-ble-specs.git"
+pod 'VisualnoteIosBle', '0.1.5', :source => "https://github.com/Visual-Note/visualnote-ios-ble-specs.git"
 ```
 
 ## API
